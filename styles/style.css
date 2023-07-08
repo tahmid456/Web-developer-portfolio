@@ -174,4 +174,21 @@ text-align: center;
 
 }
 
+#what-i-do-desc{
+
+padding:30px 150px;
+
+}
+
+.skill-container{
+
+display: flex;
+
+}
+.skill{
+padding:30px;
+
+
+}
+
 /*main section ends here */
