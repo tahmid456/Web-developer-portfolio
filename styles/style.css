@@ -201,6 +201,7 @@ border-radius: 5px;
 text-align: center;
 font-size: 35px;
 font-weight: 700;
+margin-top: 250px;
 
 }
 
@@ -211,6 +212,55 @@ font-weight: 700;
 font-style: normal;
 color:#474747;
 
+
+}
+
+.download-cv{
+
+text-align: center;
+margin-top: 50px;
+
+
+}
+
+.resume-container{
+
+display: flex;
+gap:50px;
+margin-top: 80px;
+
+}
+
+.resume-container hr{
+
+margin: 30px;
+
+
+}
+
+.resume-item-title{
+
+
+font-family: 'open sans';
+font-size: 25px;
+font-style: normal;
+font-weight: 700;
+color:#474747;
+margin-bottom: 10px;
+
+}
+
+
+.resume-item-institute{
+
+margin-bottom: 20px;
+margin-top: 0px;
+
+
+}
+.resume-item-institute,.resume-item-desc{
+
+color:#757575;
 
 }
 
