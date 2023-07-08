@@ -125,6 +125,14 @@ margin-bottom: 20px;
 /*main section starts here */
 
 
+
+
+main{
+
+max-width:1140px;
+margin:0 auto;
+
+}
 .about{
 
 padding:130px;
@@ -153,5 +161,17 @@ font-size: 18px;
 
 }
 
+
+.about-info-container{
+
+display: flex;
+justify-content: space-around;
+
+}
+
+.about-info{
+text-align: center;
+
+}
 
 /*main section ends here */
